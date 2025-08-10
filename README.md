@@ -1,4 +1,4 @@
-﻿# Coding_Copilot
+﻿# Coding Assistant 
 ---
 
 ## 🧠 Coding Copilot
@@ -117,6 +117,7 @@ Agent generates response
    ▼
 Output to user
 ```
+
 
 
 
