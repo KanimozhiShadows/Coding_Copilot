@@ -1,9 +1,9 @@
 ﻿# Coding Assistant 
 ---
 
-## 🧠 Coding Copilot
+## 🧠 Coding Assistant
 
-Coding Copilot is an agentic AI assistant that helps you with coding tasks, powered by OpenAI’s GPT model and enhanced with memory and real-time web search capabilities. It offers both a **command-line interface (CLI)** and a **web interface (via Streamlit)** for a user-friendly developer experience.
+Coding Assistant is an agentic AI assistant that helps you with coding tasks, powered by OpenAI’s GPT model and enhanced with memory and real-time web search capabilities. It offers both a **command-line interface (CLI)** and a **web interface (via Streamlit)** for a user-friendly developer experience.
 
 ---
 
@@ -117,6 +117,7 @@ Agent generates response
    ▼
 Output to user
 ```
+
 
 
 
